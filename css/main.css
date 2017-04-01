@@ -1,0 +1,34 @@
+#main{ padding: 4cm 6cm 6cm 4cm ;
+			 text-align: right;
+			 margin: auto;
+			 border: auto;
+			 padding: 10 inherit;
+
+}
+
+body { background-color: black;}
+
+#thumbnails{ align-items: center;
+							padding: 10 10 10 10
+							}
+#thumbnail{ padding: 0 0 10 0;
+}
+
+#header{ text-align: center;
+				 font-size: 60px;
+
+}
+
+#h1 { font-size: 60px;
+
+
+}
+
+#h2 { font-size: 60px;
+			text-align: center;
+
+}
+
+#footer {
+
+}

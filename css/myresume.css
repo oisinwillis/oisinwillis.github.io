@@ -1,0 +1,54 @@
+body {
+      font-size: 62.5%;
+      margin: 10px;
+    }
+
+a:link, a:visited { text-decoration: none;}
+a:hover {background-color: #FAEBD7;}
+
+
+
+.wrapper {
+  font-size: 1.6em;
+  padding: 2em;
+  margin: 0 auto;
+  width: 900px;
+  height: 2000px;
+  background-color: white;
+}
+
+nav {
+    background-color: rgb(144, 0, 40);
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    height: 50px;
+    text-align: center;
+    font-size: 12.8px;
+}
+
+#content {
+  background-color: rgb(144, 0, 40);
+  text-align: center;
+}
+
+#headshot {background-color: black;}
+
+h1
+ { font-size: 3.5em;
+  font-family: 'Monofett', cursive;
+
+}
+
+h2 { font-style: italic;
+      font-family: 'Monofett', cursive;
+      font-weight: lighter;
+      font-size: 2em;
+      padding-top: 20px;
+}
+
+.img-circle
+ {border-radius: 80%;
+  padding: 50px;}
+}
+
+
+}
